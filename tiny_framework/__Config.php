@@ -16,6 +16,6 @@ define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 
 /* ENVIRONMENT */
-define('DEVELOPMENT_ENVIRONMENT',true);
+define('DEVELOPMENıkljkljlkjlkT_ENVIRONMENT',true);
 if (DEVELOPMENT_ENVIRONMENT == true) { error_reporting(E_ALL); ini_set('display_errors','On'); } else { error_reporting(0); ini_set('display_errors','Off'); }
 
