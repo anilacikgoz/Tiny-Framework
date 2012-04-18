@@ -1,6 +1,5 @@
 <?php
-
-dfdsfsdefine('ACCESSIBLE', true);
+define('ACCESSIBLE', true);
 
 spl_autoload_register('autoload');
 function autoload($className) {
